@@ -6,7 +6,11 @@
   "scripts": {
     "build": "webpack --config webpack.config.js"
   },
-  "author": "",
+  "keywords": [
+    "webpack",
+    "bundle"
+  ],
+  "author": "Ruslan Shakirov",
   "license": "ISC",
   "devDependencies": {
     "terser-webpack-plugin": "^5.1.1",
